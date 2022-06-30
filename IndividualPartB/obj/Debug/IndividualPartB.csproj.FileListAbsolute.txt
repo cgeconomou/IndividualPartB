@@ -1,0 +1,13 @@
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\IndividualPartB.exe.config
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\IndividualPartB.exe
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\IndividualPartB.pdb
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\EntityFramework.dll
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\EntityFramework.xml
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.csproj.AssemblyReference.cache
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.csproj.SuggestedBindingRedirects.cache
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.csproj.CoreCompileInputs.cache
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.csproj.CopyComplete
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.exe
+C:\Users\DINOS\source\repos\IndividualPartB\IndividualPartB\obj\Debug\IndividualPartB.pdb
